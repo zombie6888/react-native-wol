@@ -1,5 +1,7 @@
 # react-native-wol
 
+<p align="center">React native module for  sending a Wake-On-Lan magic packets. <b>Currently works on Android only!</b><a href="https://reactnative.dev/">React Native.</a></p>
+
 ## Getting started
 
 `$ npm install react-native-wol --save`
