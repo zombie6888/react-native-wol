@@ -56,7 +56,7 @@ public class MainActivity extends Activity implements ReactApplication {
 ```javascript
 import Wol from 'react-native-wol';
 
-Wol.send("192.168.0.255", "20:17:42:67:DD:18", (res, msg) =>  (res, msg) => {
+Wol.send("192.168.0.255", "20:17:42:67:DD:18", (res, msg) => {
     console.log(res, msg)
 })
 ```
