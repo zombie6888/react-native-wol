@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-wol.git",
-    "baseUrl": "https://github.com/github_account/react-native-wol"
+    "url": "git+https://github.com/zombie6888/react-native-wol.git",
+    "baseUrl": "https://github.com/zombie6888/react-native-wol"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "Sergey Zhukov",
+    "email": "zom688@email.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
