@@ -20,7 +20,7 @@
     "baseUrl": "https://github.com/zombie6888/react-native-wol"
   },
   "keywords": [
-    "react-native"
+    "react-native", "wake-on-lan", "wol"
   ],
   "author": {
     "name": "Sergey Zhukov",
