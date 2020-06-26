@@ -1,8 +1,8 @@
 {
   "name": "react-native-wol",
   "title": "React Native Wol",
-  "version": "1.0.1",
-  "description": "TODO",
+  "version": "1.0.2",
+  "description": "Wake on lan utility for react native projects",
   "main": "index.js",
   "files": [
     "README.md",
